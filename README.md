@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://filmdaily.co/wp-content/uploads/2020/05/coughing-cat-meme-lede.jpg)
+<p align="center">
+	<img src="https://raw.githubusercontent.com/FlorianWendelborn/florianwendelborn.com/master/packages/frontend/public/icon.animated.svg" width="512" height="512"/>
+</p>
