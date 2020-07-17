@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/FlorianWendelborn/florianwendelborn.com/master/packages/frontend/public/icon.animated.svg" width="512" height="512"/>
+	<img src="https://raw.githubusercontent.com/FlorianWendelborn/florianwendelborn.com/master/packages/frontend/public/icon.animated.svg" width="256" height="256"/>
 </p>
